@@ -1,0 +1,3 @@
+rootProject.name = 'PracticeRedux'
+
+include ':app'
