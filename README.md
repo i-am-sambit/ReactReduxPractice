@@ -7,6 +7,6 @@ Redux used to persist data inside it's store. We can access these data and can u
 
 <b>Reducers :</b> Reducers are having all the business logic inside it. When an Action annonces something, reducer used to check that announcement, does the necessary task and then send that result to 'Store'.  
 
-<b>Store :</b> It holds entire State-tree of our application. If we need to modify or retrive state data from store we have to use <b>'Actions'</b>
+<b>Store :</b> It holds entire State-tree of our application. If we need to modify or retrive state data from store we have to use 'Actions'
 
 <b>Provider :</b> Provider used to make a connections between Components and Store.
